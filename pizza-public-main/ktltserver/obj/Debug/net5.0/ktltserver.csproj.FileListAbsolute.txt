@@ -1,0 +1,304 @@
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\appsettings.json
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\ktltserver.exe
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\ktltserver.deps.json
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.json
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.dev.json
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\ktltserver.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\ktltserver.pdb
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LongHuu\Desktop\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.csproj.AssemblyReference.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfoInputs.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfo.cs
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CoreCompileInputs.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\scopedcss\bundle\ktltserver.styles.css
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\staticwebassets\ktltserver.StaticWebAssets.Manifest.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.RazorTargetAssemblyInfo.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CopyComplete
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.dll
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\refint\ktltserver.dll
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.pdb
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ktltserver.genruntimeconfig.cache
+C:\Users\LongHuu\Desktop\ktltserver\obj\Debug\net5.0\ref\ktltserver.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\appsettings.json
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.exe
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.deps.json
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.json
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.dev.json
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ref\ktltserver.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.pdb
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Humanizer.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.csproj.AssemblyReference.cache
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfoInputs.cache
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfo.cs
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CoreCompileInputs.cache
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\staticwebassets\ktltserver.StaticWebAssets.Manifest.cache
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\staticwebassets\ktltserver.StaticWebAssets.xml
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\scopedcss\bundle\ktltserver.styles.css
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.RazorTargetAssemblyInfo.cache
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CopyComplete
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ref\ktltserver.dll
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.pdb
+C:\Users\vuxvps\Desktop\ktlt\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.genruntimeconfig.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\appsettings.json
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.StaticWebAssets.xml
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.exe
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.deps.json
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.json
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.dev.json
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\ktltserver.pdb
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.csproj.AssemblyReference.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfoInputs.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfo.cs
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CoreCompileInputs.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\scopedcss\bundle\ktltserver.styles.css
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\staticwebassets\ktltserver.StaticWebAssets.Manifest.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.RazorTargetAssemblyInfo.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CopyComplete
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\refint\ktltserver.dll
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.pdb
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ktltserver.genruntimeconfig.cache
+C:\Users\LongHuu\Desktop\New folder\pizza-shop-server\ktltserver\obj\Debug\net5.0\ref\ktltserver.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\refint\ktltserver.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.pdb
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.StaticWebAssets.xml
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.exe
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.deps.json
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.pdb
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Humanizer.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\scopedcss\bundle\ktltserver.styles.css
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\staticwebassets\ktltserver.StaticWebAssets.Manifest.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\pizza-public-main\ktltserver\obj\Debug\net5.0\ref\ktltserver.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\appsettings.Development.json
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\appsettings.json
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.StaticWebAssets.xml
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.exe
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.deps.json
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.json
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.runtimeconfig.dev.json
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\ktltserver.pdb
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Humanizer.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.csproj.AssemblyReference.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.GeneratedMSBuildEditorConfig.editorconfig
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfoInputs.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.AssemblyInfo.cs
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CoreCompileInputs.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cs
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.MvcApplicationPartsAssemblyInfo.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\scopedcss\bundle\ktltserver.styles.css
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\staticwebassets\ktltserver.StaticWebAssets.Manifest.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.RazorTargetAssemblyInfo.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.csproj.CopyComplete
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\refint\ktltserver.dll
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.pdb
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ktltserver.genruntimeconfig.cache
+D:\file\Pizza Store\pizza-public-main\ktltserver\obj\Debug\net5.0\ref\ktltserver.dll
